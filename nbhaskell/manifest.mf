@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.hoovooloo
+OpenIDE-Module-Layer: org/hoovooloo/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/hoovooloo/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
