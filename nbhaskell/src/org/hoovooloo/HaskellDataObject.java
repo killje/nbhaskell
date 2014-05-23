@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package org.hoovooloo;
 
 import java.io.IOException;
@@ -14,6 +10,7 @@ import org.openide.nodes.CookieSet;
 import org.openide.nodes.Node;
 import org.openide.nodes.Children;
 import org.openide.util.Lookup;
+
 import org.openide.text.DataEditorSupport;
 
 public class HaskellDataObject extends MultiDataObject {
